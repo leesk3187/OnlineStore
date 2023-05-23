@@ -1,0 +1,3 @@
+C:\C_Leng\기초프로젝트\온라인쇼핑몰관리\manager_program\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\문서\GitHub\OnlineStoreManagementSystem_2023-1\manager_program\x64\Debug\manager_program.exe
+C:\C_Leng\기초프로젝트\팀프로젝트\OnlineStoreProgram\manager_program\x64\Debug\manager_program.exe
