@@ -1,0 +1,21 @@
+C:\C_Leng\기초프로젝트\온라인쇼핑몰관리\manager_program\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\문서\GitHub\OnlineStoreManagementSystem_2023-1\manager_program\x64\Debug\manager_program.exe
+C:\C_Leng\기초프로젝트\팀프로젝트\OnlineStoreProgram\manager_program\x64\Debug\manager_program.exe
+C:\C_Leng\기초프로젝트\팀프로젝트\manager_program\x64\Debug\manager_program.exe
+C:\Users\KSC\Desktop\x64\Debug\manager_program.exe
+C:\Users\409-50\Desktop\ㅁㅈㅇㅈㅁ\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\쇼핑몰 관리 프로그램\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\구조체하나로\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\kkeg1\Desktop\새 폴더\대학교\2학년 1학기\기초프로젝트\구조체 선언\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\수정_구조체 선언\구조체 선언\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\로그인후이용\구조체 선언\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\kkeg1\Documents\카카오톡 받은 파일\로그인후이용\구조체 선언\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\409-31\Desktop\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\쇼핑몰 관리 프로그램 (4)\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\쇼핑몰 관리 프로그램 (장바구니)\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\준호\Desktop\쇼핑몰 관리 프로그램 (장바구니)\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\쇼핑몰 관리 프로그램 쌉최종\쇼핑몰 관리 프로그램 쌉최종\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\kkeg1\Documents\카카오톡 받은 파일\쇼핑몰 관리 프로그램 쌉쌉최종\쇼핑몰 관리 프로그램 쌉최종\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\BS\2023\기초프로젝트1(PBL)\과제\팀프로젝트\보고서\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+C:\Users\이승겸\OneDrive\바탕 화면\BS\2023\1st\기초프로젝트1(PBL)\팀프로젝트\보고서\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
+D:\BS\2023\1st\기초프로젝트1(PBL)\팀프로젝트\보고서\쇼핑몰 관리 프로그램\x64\Debug\manager_program.exe
